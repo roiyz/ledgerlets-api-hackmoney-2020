@@ -1,0 +1,4 @@
+{
+  "Conn": "DefaultEndpointsProtocol=https;AccountName=bcproofstor1;AccountKey=;EndpointSuffix=core.windows.net"
+}
+

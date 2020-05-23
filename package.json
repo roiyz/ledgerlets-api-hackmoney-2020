@@ -1,0 +1,23 @@
+{
+  "name": "proof",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "azure": "^2.3.1-preview",
+    "azure-storage": "^2.10.3",
+    "azure-table": "^0.3.0",
+    "azure-table-node": "^1.5.0",
+    "config": "^3.2.3",
+    "express": "^4.16.3",
+    "formidable": "^1.2.1",
+    "superagent": "^5.0.5",
+    "superagent-promise": "^1.1.0",
+    "uuid": "^3.3.2"
+  }
+}
